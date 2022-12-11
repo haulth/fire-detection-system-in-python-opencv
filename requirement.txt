@@ -1,0 +1,6 @@
+#pip install -r requirement.txt
+opencv-python
+numpy
+smtplib
+playsound
+threading
